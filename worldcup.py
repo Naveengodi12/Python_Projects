@@ -49,4 +49,4 @@ else:
     print("Incorrect!")
 
 print("You Got " +str(score)+" Questions Correct")
-print("You Got " +str((score/6)*100)+ "%.")
+print("You Got " +str((score/7)*100)+ "%.")
